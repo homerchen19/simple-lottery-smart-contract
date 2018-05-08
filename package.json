@@ -1,7 +1,7 @@
 {
-  "name": "simple-inbox-smart-contract",
+  "name": "simple-lottery-smart-contract",
   "version": "1.0.0",
-  "description": "A simple inbox smart contract.",
+  "description": "A simple lottery smart contract.",
   "scripts": {
     "test": "mocha"
   },
